@@ -1,6 +1,8 @@
 # Baking with JAX Autodiff 🎂: From Basics to Advanced Recipes
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p201cehNanuWhh8dc_DzzduuKUmGB6n4) Learn JAX's powerful automatic differentiation (autodiff) system through a fun and relatable cake-baking analogy! 🧑‍🍳
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p201cehNanuWhh8dc_DzzduuKUmGB6n4) 
+
+Learn JAX's powerful automatic differentiation (autodiff) system through a fun and relatable cake-baking analogy! 🧑‍🍳
 
 This repository contains a tutorial notebook (`.ipynb`) that walks you through core autodiff concepts and practical JAX implementations. We start with the basics of getting gradients and progressively build up to advanced techniques like Jacobians, Hessians, complex number differentiation, and even defining your own custom "secret recipes" for derivatives.
 
